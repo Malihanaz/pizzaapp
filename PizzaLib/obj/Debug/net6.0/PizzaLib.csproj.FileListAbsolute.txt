@@ -1,0 +1,5 @@
+D:\simplilearn phase4\phase end project\WebPizzaApp\PizzaLib\obj\Debug\net6.0\PizzaLib.csproj.AssemblyReference.cache
+D:\simplilearn phase4\phase end project\WebPizzaApp\PizzaLib\obj\Debug\net6.0\PizzaLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\simplilearn phase4\phase end project\WebPizzaApp\PizzaLib\obj\Debug\net6.0\PizzaLib.AssemblyInfoInputs.cache
+D:\simplilearn phase4\phase end project\WebPizzaApp\PizzaLib\obj\Debug\net6.0\PizzaLib.AssemblyInfo.cs
+D:\simplilearn phase4\phase end project\WebPizzaApp\PizzaLib\obj\Debug\net6.0\PizzaLib.csproj.CoreCompileInputs.cache
